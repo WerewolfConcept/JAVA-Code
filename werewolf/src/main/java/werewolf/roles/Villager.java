@@ -35,6 +35,6 @@ public abstract class Villager {
 	 */
 	public void changeFaction(int newF) {
 	  this.faction = newF;
-	}S
+	}
 	
 }
